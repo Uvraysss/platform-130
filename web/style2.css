@@ -1,0 +1,19 @@
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#thisID{
+    border: 10px solid rgb(141, 37, 179) ;
+}
+body{
+    background-color: #FFF6DD;
+}
+.Thisclass{
+    background-color: rgb(249, 152, 210);
+    font-family: 'Kanit';
+    border: 5px solid rgb(241, 61, 154);
+    padding: 20px;
+    text-align: center;
+}
